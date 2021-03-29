@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpaceX</string>
+    <string name="wikipedia"><u>wikipedia</u></string>
+    <string name="status">status</string>
+    <string name="agency">nasa</string>
+    <string name="name">name</string>
+</resources>
